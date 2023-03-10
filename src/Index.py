@@ -2,4 +2,4 @@ import numpy as np
 import pandas as pd
 
 def lambda_handler(event, context):
-    return 'Success!!'
+    return 'Success, Thanks Lord!'
